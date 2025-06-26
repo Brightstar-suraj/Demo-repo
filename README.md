@@ -1,2 +1,2 @@
 # Demo-repo
-This is demo for leaning github
+This is demo for leaning github.
